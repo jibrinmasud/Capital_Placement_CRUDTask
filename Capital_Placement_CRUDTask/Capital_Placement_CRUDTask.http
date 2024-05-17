@@ -1,0 +1,6 @@
+@Capital_Placement_CRUDTask_HostAddress = http://localhost:5096
+
+GET {{Capital_Placement_CRUDTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
